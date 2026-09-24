@@ -1,12 +1,17 @@
+/* Style.css*/
 * {
   box-sizing: border-box;
 }
 
+
+
+
+
 body {
   margin: 0;
-  background: #947706;
+  background: #e40425;
   color: #222;
-  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-family: "JB Website", Arial, sans-serif;
 }
 
 #all-contents {
